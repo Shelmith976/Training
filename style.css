@@ -1,0 +1,21 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aqua;
+    
+    }
+    nav li{
+        float: left;
+    }
+    ul a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding:15px 18px;
+    text-decoration: none;
+    }
+    ul a:hover{
+        background-color:blue;
+    }
